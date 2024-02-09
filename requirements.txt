@@ -2,3 +2,5 @@ llama-index
 openai
 pypdf
 python-dotenv
+langchain-google-genai 
+langchain
